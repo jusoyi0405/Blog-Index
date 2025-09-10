@@ -39,15 +39,15 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "EsunR-Blog",
+  BLOG_NAME: "ian",
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.esunr.xyz",
+  BLOG_URL: "https://ianip.eu.org",
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: null,
+  LOGO_URL: "https://photo.ianip.eu.org/file/1744285479962_353934194_112885185168068_5570359555402115477_n.jpg",
   /**
    * 个人 Github 链接
    */
@@ -59,7 +59,7 @@ const GLOBAL_CONFIG = {
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证000001号",
+  ICP: "",
   ICP_URL: "https://beian.miit.gov.cn/",
   FOOTER_INFO: true,
   /**
