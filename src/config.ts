@@ -1,12 +1,12 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "示例分类1",
+    title: "公開網站",
     sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
-        icon: "",
+        title: "ian的blog",
+        url: "https://ianip.eu.org",
+        icon: "https://photo.ianip.eu.org/file/1744285479962_353934194_112885185168068_5570359555402115477_n.jpg",
         color: "#0171CD",
       },
       {
