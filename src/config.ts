@@ -33,7 +33,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://photo.ianip.eu.org/",
         icon: "https://raw.githubusercontent.com/jusoyi0405/CloudFlare-ImgBed/refs/heads/main/logo.png",
       },
-];
+  ];
 
 /** Website 配置（2023.3.29 已废弃） */
 const WEBSITE_ITEMS: WebsiteItem[] = [];
