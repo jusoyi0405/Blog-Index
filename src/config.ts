@@ -16,6 +16,27 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     ],
   },
 ];
+{
+    title: "私人網站",
+    sites: [
+      {
+        title: "cloud-mail",
+        url: "https://cloud.ianip.eu.org",
+        icon: "https://raw.githubusercontent.com/jusoyi0405/cloud-mail/refs/heads/main/doc/demo/logo.png",
+      },
+      {
+        title: "moemail",
+        url: "https://moemail.ianip.eu.org/",
+        icon: "https://raw.githubusercontent.com/jusoyi0405/moemail/refs/heads/master/public/icons/icon-192x192.png",
+      },
+      {
+        title: "imgbad圖床",
+        url: "https://photo.ianip.eu.org/",
+        icon: "https://raw.githubusercontent.com/jusoyi0405/CloudFlare-ImgBed/refs/heads/main/logo.png",
+      },
+    ],
+  },
+];
 
 /** Website 配置（2023.3.29 已废弃） */
 const WEBSITE_ITEMS: WebsiteItem[] = [];
