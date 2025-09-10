@@ -1,7 +1,7 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "公開網站",
+    title: "我架的服務",
     sites: [
       {
         title: "ian的blog",
@@ -13,11 +13,6 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://url.ianip.eu.org/",
         icon: "",
       },
-    ],
-  },
-  {
-    title: "私人網站",
-    sites: [
       {
         title: "cloud-mail",
         url: "https://cloud.ianip.eu.org",
@@ -33,7 +28,9 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://photo.ianip.eu.org/",
         icon: "https://raw.githubusercontent.com/jusoyi0405/CloudFlare-ImgBed/refs/heads/main/logo.png",
       },
-  ];
+    ],
+  },
+];
 
 /** Website 配置（2023.3.29 已废弃） */
 const WEBSITE_ITEMS: WebsiteItem[] = [];
