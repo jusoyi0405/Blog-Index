@@ -23,17 +23,6 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       },
     ],
   },
-  {
-    title: "友情链接",
-    sites: [
-      {
-        title: "EsunR Blog",
-        description: "EsunR 的博客",
-        url: "https://www.esunr.xyz",
-        icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
-      },
-    ],
-  },
 ];
 
 /** Website 配置（2023.3.29 已废弃） */
