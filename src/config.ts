@@ -23,7 +23,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       },
     ],
   },
-  
+  {
     title: "友情链接",
     sites: [
       {
