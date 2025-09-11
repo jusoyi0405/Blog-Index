@@ -55,7 +55,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://api.bimg.cc/random?w=1920&h=1080&mkt=zh-TW",
+  BACKGROUND_IMG_URL: "https://bing.img.run/rand_uhd.php",
   /**
    * ICP 备案号，留空不显示
    */
