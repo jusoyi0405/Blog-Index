@@ -5,7 +5,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     sites: [
       {
         title: "ian的blog",
-        url: "https://ianip.eu.org",
+        url: "https://cdn.ianip.eu.org",
         icon: "https://photo.ianip.eu.org/file/1744285479962_353934194_112885185168068_5570359555402115477_n.jpg",
       },
       {
